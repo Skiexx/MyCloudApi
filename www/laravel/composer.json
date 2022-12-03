@@ -1,8 +1,8 @@
 {
-    "name": "laravel/laravel",
+    "name": "skiexx/mycloudapi",
     "type": "project",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "description": "Cloud API on PHP Laravel Framework",
+    "keywords": ["framework", "laravel", "api", "cloud"],
     "license": "MIT",
     "require": {
         "php": "^8.0.2",
